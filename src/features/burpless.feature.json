@@ -1,0 +1,17 @@
+{
+	"Features": [
+		{
+			"Feature": "Burpless",
+			"Story": "In order to sleep well at night\nAs a test report geek\nAll I ask for is a small simple script that I can mess with for my needs",
+			"Scenarios": [
+				{ "Scenario": "This is the scenario" },
+				{	"Step": [
+						"Given a precondition",
+						"When I run the Test",
+						"Then I can see OK!! on the screen"
+					]
+				}
+			]
+		}
+	]
+}
